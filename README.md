@@ -9,3 +9,5 @@ JavaScript, Express, Mongoose, MongoDB Atlas, CSS, and HTML.
 ## Demonstration
 
 To see this application in action, please click on this [link](https://workout-tracker.ma86.repl.co/).
+
+NOTE: *Since I'm running my server program on a free platform, it may be slow at times.*
