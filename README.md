@@ -8,4 +8,4 @@ JavaScript, Express, Mongoose, MongoDB Atlas, CSS, and HTML.
 
 ## Demonstration
 
-To see this application in action, please click on this [link](https://boilerplate-project-exercisetracker.ma86.repl.co/).
+To see this application in action, please click on this [link](https://workout-tracker.ma86.repl.co/).
